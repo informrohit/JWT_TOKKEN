@@ -1,5 +1,6 @@
 {
-  "Symbol": "ERC",
+  "description": "GameItems - Gold",
   "external_url": "https://forum.openzeppelin.com",
-  "name": "ERC1155"
+  "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+  "name": "Gold"
 }
